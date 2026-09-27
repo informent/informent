@@ -9,10 +9,13 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 | Project | Purpose |
 | --- | --- |
 | [OpenGameSave](https://github.com/informent/OpenGameSave) | Local-first game-save snapshots with integrity checks and safe restore behavior |
+| [OpenFix](https://github.com/informent/OpenFix) | Read-only Windows health checks with evidence-first troubleshooting and legitimate activation guidance |
 | [OpenBackup](https://github.com/informent/OpenBackup) | Straightforward local backup workflows |
 | [OpenSpace](https://github.com/informent/OpenSpace) | Clear storage visibility and cleanup planning |
 | [OpenRename](https://github.com/informent/OpenRename) | Safe, preview-first batch renaming |
 | [OpenClip](https://github.com/informent/OpenClip) | A focused clipboard workflow for Windows |
+| [OpenPackager](https://github.com/informent/OpenPackager) | Local Windows packaging and release workflows |
+| [OpenServerOps](https://github.com/informent/OpenServerOps) | Practical tools for safer server administration |
 
 ## What I care about
 
@@ -22,3 +25,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 - Small tools that are easy to understand, test, and maintain
 
 Everything here is built to be useful in the real world, with the source and release history available for review.
+
+## Release standard
+
+Major updates are tested on Windows, published with self-contained executable packages, and kept visible through GitHub Actions and release history. Projects prefer local-first operation, explicit user consent, reversible changes, and no mandatory accounts.
