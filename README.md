@@ -10,7 +10,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 | --- | --- |
 | [OpenGameSave](https://github.com/informent/OpenGameSave) | Local-first game-save snapshots with integrity checks and safe restore behavior |
 | [OpenFix](https://github.com/informent/OpenFix) | Read-only Windows health checks with evidence-first troubleshooting and legitimate activation guidance ([latest release](https://github.com/informent/OpenFix/releases/latest)) |
-| [OpenShare](https://github.com/informent/OpenShare) | Windows preview for TLS-encrypted local file transfers with private pairing codes, SHA-256 verification, and no cloud upload ([releases](https://github.com/informent/OpenShare/releases)) |
+| [OpenShare](https://github.com/informent/OpenShare) | Encrypted Windows file sharing with receiver approval, integrity checks and automated packaged-app testing ([0.3.0 preview](https://github.com/informent/OpenShare/releases/tag/v0.3.0)) |
 | [OpenBackup](https://github.com/informent/OpenBackup) | Straightforward local backup workflows |
 | [OpenSpace](https://github.com/informent/OpenSpace) | Clear storage visibility and cleanup planning |
 | [OpenRename](https://github.com/informent/OpenRename) | Safe, preview-first batch renaming |
