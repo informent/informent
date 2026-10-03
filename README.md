@@ -14,7 +14,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 | [OpenBackup](https://github.com/informent/OpenBackup) | Atomic verified snapshots, restore preflight, safe scheduling, and validated retention planning ([v1.5.0](https://github.com/informent/OpenBackup/releases/tag/v1.5.0)) |
 | [OpenSpace](https://github.com/informent/OpenSpace) | Fault-tolerant storage analysis with exact aggregation and visible inaccessible-path evidence ([v1.1.0](https://github.com/informent/OpenSpace/releases/tag/v1.1.0)) |
 | [OpenRename](https://github.com/informent/OpenRename) | Transactional batch renaming with swaps, rollback, and restart-safe persistent undo ([v1.1.0](https://github.com/informent/OpenRename/releases/tag/v1.1.0)) |
-| [OpenClip](https://github.com/informent/OpenClip) | Private clipboard history with sensitive-content exclusion, bounded storage, and corruption recovery ([v1.0.0](https://github.com/informent/OpenClip/releases/tag/v1.0.0)) |
+| [OpenClip](https://github.com/informent/OpenClip) | Private clipboard history with secret exclusion, corruption recovery, and multi-instance write safety ([v1.1.0](https://github.com/informent/OpenClip/releases/tag/v1.1.0)) |
 | [OpenPackager](https://github.com/informent/OpenPackager) | Windows packaging with strict manifest parsing and exact SHA-256 payload coverage verification ([v3.1.0](https://github.com/informent/OpenPackager/releases/tag/v3.1.0)) |
 | [OpenServerOps](https://github.com/informent/OpenServerOps) | Read-only server audits with health grades and exportable JSON/HTML evidence ([v2.0.0](https://github.com/informent/OpenServerOps/releases/tag/v2.0.0)) |
 
