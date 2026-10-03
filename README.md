@@ -8,7 +8,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 | Project | Purpose |
 | --- | --- |
-| [OpenGameSave](https://github.com/informent/OpenGameSave) | Atomic game-save snapshots with SHA-256 verification and whole-restore collision preflight ([v1.1.0](https://github.com/informent/OpenGameSave/releases/tag/v1.1.0)) |
+| [OpenGameSave](https://github.com/informent/OpenGameSave) | Atomic game-save snapshots with copied-byte integrity and linked-path protection ([v1.2.0](https://github.com/informent/OpenGameSave/releases/tag/v1.2.0)) |
 | [OpenFix](https://github.com/informent/OpenFix) | Read-only Windows health scoring with privacy-safe HTML/JSON support bundles and verified manifests ([v1.0.0](https://github.com/informent/OpenFix/releases/tag/v1.0.0)) |
 | [OpenShare](https://github.com/informent/OpenShare) | Encrypted Windows file sharing with receiver approval, integrity checks, and local transfer receipts ([v1.0.0](https://github.com/informent/OpenShare/releases/tag/v1.0.0)) |
 | [OpenBackup](https://github.com/informent/OpenBackup) | Atomic verified snapshots, restore preflight, safe scheduling, and validated retention planning ([v1.5.0](https://github.com/informent/OpenBackup/releases/tag/v1.5.0)) |
