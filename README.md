@@ -33,7 +33,7 @@ Everything here is built to be useful in the real world, with the source and rel
 - Filesystem safety: atomic writes, transactional operations, path-boundary validation, SHA-256 manifests, and restore preflight
 - Security and privacy: encrypted transfers, certificate pinning, sensitive-data exclusion, redaction, and local-first storage
 - Systems and operations: server auditing, storage analysis, backup scheduling, release automation, and failure recovery
-- Delivery discipline: regression tests, packaged-app smoke tests, GitHub Actions, issue tracking, code review, and reproducible releases
+- Delivery discipline: regression tests, packaged-app smoke tests, least-privilege CI permissions, issue tracking, code review, and reproducible releases
 
 ## Release standard
 
