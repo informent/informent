@@ -16,7 +16,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 | [OpenRename](https://github.com/informent/OpenRename) | Transactional batch renaming with swaps, rollback, and restart-safe persistent undo ([v1.1.0](https://github.com/informent/OpenRename/releases/tag/v1.1.0)) |
 | [OpenClip](https://github.com/informent/OpenClip) | Private clipboard history with secret exclusion, corruption recovery, and multi-instance write safety ([v1.1.0](https://github.com/informent/OpenClip/releases/tag/v1.1.0)) |
 | [OpenPackager](https://github.com/informent/OpenPackager) | Windows packaging with strict manifest parsing and exact SHA-256 payload coverage verification ([v3.1.0](https://github.com/informent/OpenPackager/releases/tag/v3.1.0)) |
-| [OpenServerOps](https://github.com/informent/OpenServerOps) | Read-only server audits with health grades and exportable JSON/HTML evidence ([v2.0.0](https://github.com/informent/OpenServerOps/releases/tag/v2.0.0)) |
+| [OpenServerOps](https://github.com/informent/OpenServerOps) | Read-only server audits with health grades and metadata-preserving atomic JSON/HTML exports ([v2.0.1](https://github.com/informent/OpenServerOps/releases/tag/v2.0.1)) |
 
 ## What I care about
 
