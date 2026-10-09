@@ -20,7 +20,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 ## In progress
 
-- OpenDesk: a local prototype for self-hosted Discord servers with tickets, moderation, role management, staff warnings, utilities, and a per-server coin economy. Automated tests pass; it is not published or yet tested against a live Discord server. Auto-moderation, anti-raid, leveling, and music remain planned.
+- OpenDesk: an unpublished local prototype for self-hosted Discord servers with tickets, moderation, role management, staff warnings, utilities, a per-server coin economy, resumable Gateway sessions, optional welcome messages, and join-burst alerts. Automated tests pass; it has not been tested against a live Discord server. Automatic message filtering, automatic raid response, leveling, and music remain unimplemented.
 
 ## What I care about
 
