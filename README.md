@@ -20,7 +20,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 ## In progress
 
-- OpenDesk: an unpublished local prototype for self-hosted Discord servers with tickets, moderation, role management, staff warnings, utilities, a per-server coin economy, resumable Gateway sessions, optional welcome messages, and join-burst alerts. Automated tests pass; it has not been tested against a live Discord server. Automatic message filtering, automatic raid response, leveling, and music remain unimplemented.
+- [OpenDesk](https://github.com/informent/OpenDesk): a free, self-hosted Discord bot with tickets, moderation, role management, staff warnings, utilities, coin economy, optional XP leveling, welcome messages, join-burst alerts, and resumable Gateway sessions. Automated tests pass; live Discord operation has not been verified. Automatic message filtering, automatic raid response, and music remain unimplemented.
 
 ## What I care about
 
@@ -29,7 +29,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 - Safe previews, explicit actions, and recoverable changes
 - Small tools that are easy to understand, test, and maintain
 
-Published projects include source and release history for review. OpenDesk is a separate local prototype and is not yet available to download.
+Published projects include source and release history for review. OpenDesk is source-only and has no packaged release yet.
 
 ## Engineering range
 
