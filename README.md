@@ -8,14 +8,15 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 | Project | Purpose |
 | --- | --- |
+| [OpenDesk](https://github.com/informent/OpenDesk) | Self-hosted Discord support tickets with private channels, signed interactions, and durable close handling; early release, not yet exercised on a live Discord server |
 | [OpenGameSave](https://github.com/informent/OpenGameSave) | Atomic game-save snapshots with copied-byte integrity and linked-path protection; rejects output inside save roots ([v1.3.0 release](https://github.com/informent/OpenGameSave/releases/tag/v1.3.0), [master fix #6](https://github.com/informent/OpenGameSave/pull/6)) |
 | [OpenFix](https://github.com/informent/OpenFix) | Read-only Windows health scoring with privacy-safe support bundles, deadlock-safe activation checks, and resilient temp-tree scanning ([v1.0.1](https://github.com/informent/OpenFix/releases/tag/v1.0.1)) |
-| [OpenShare](https://github.com/informent/OpenShare) | Encrypted Windows file sharing with receiver approval, integrity checks, and local transfer receipts ([v1.0.0](https://github.com/informent/OpenShare/releases/tag/v1.0.0)) |
+| [OpenShare](https://github.com/informent/OpenShare) | Encrypted Windows file sharing with receiver approval, integrity checks, and local transfer receipts ([latest release](https://github.com/informent/OpenShare/releases/latest)) |
 | [OpenBackup](https://github.com/informent/OpenBackup) | Atomic verified snapshots, restore preflight, safe scheduling, and validated retention planning ([v1.5.0](https://github.com/informent/OpenBackup/releases/tag/v1.5.0)) |
 | [OpenSpace](https://github.com/informent/OpenSpace) | Fault-tolerant storage analysis with exact aggregation and visible inaccessible-path evidence; linked scan roots are reported and skipped ([v1.2.0 release](https://github.com/informent/OpenSpace/releases/tag/v1.2.0), [master fix #4](https://github.com/informent/OpenSpace/pull/4)) |
 | [OpenRename](https://github.com/informent/OpenRename) | Transactional batch renaming with swaps, rollback, and restart-safe persistent undo; invalid previews clear stale actions ([v1.2.0 release](https://github.com/informent/OpenRename/releases/tag/v1.2.0), [master fix #4](https://github.com/informent/OpenRename/pull/4)) |
 | [OpenClip](https://github.com/informent/OpenClip) | Private clipboard history with secret exclusion, corruption recovery, multi-instance write safety, and stable selection across refreshes ([v1.2.0 release](https://github.com/informent/OpenClip/releases/tag/v1.2.0), [master fix #4](https://github.com/informent/OpenClip/pull/4)) |
-| [OpenPackager](https://github.com/informent/OpenPackager) | Windows packaging with strict manifest parsing, exact SHA-256 payload coverage, and source-bundle junction rejection ([v3.2.0 release](https://github.com/informent/OpenPackager/releases/tag/v3.2.0), [master fix #4](https://github.com/informent/OpenPackager/pull/4)) |
+| [OpenPackager](https://github.com/informent/OpenPackager) | Windows packaging with strict manifest parsing, exact SHA-256 payload coverage, and source-bundle junction rejection ([latest release](https://github.com/informent/OpenPackager/releases/latest)) |
 | [OpenServerOps](https://github.com/informent/OpenServerOps) | Read-only server audits with health grades and metadata-preserving atomic JSON/HTML exports ([v2.0.1](https://github.com/informent/OpenServerOps/releases/tag/v2.0.1)) |
 
 ## What I care about
@@ -34,6 +35,10 @@ Everything here is built to be useful in the real world, with the source and rel
 - Security and privacy: encrypted transfers, certificate pinning, sensitive-data exclusion, redaction, and local-first storage
 - Systems and operations: server auditing, storage analysis, backup scheduling, release automation, and failure recovery
 - Delivery discipline: regression tests, packaged-app smoke tests, least-privilege CI permissions, issue tracking, code review, and reproducible releases
+
+## Maintenance
+
+Dependencies and GitHub Actions are maintained through reviewable pull requests with CI checks. Release links point to the latest published builds; maintenance changes do not imply a new app release.
 
 ## Release standard
 
