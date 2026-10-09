@@ -20,7 +20,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 ## In progress
 
-- OpenDesk: a local prototype for self-hosted Discord support tickets. Automated tests pass, but it is not published or yet tested against a live Discord server.
+- OpenDesk: a local prototype for self-hosted Discord servers with tickets, moderation, staff warnings, utilities, and a per-server coin economy. Automated tests pass; it is not published or yet tested against a live Discord server. Auto-moderation, anti-raid, leveling, and music remain planned.
 
 ## What I care about
 
@@ -29,7 +29,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 - Safe previews, explicit actions, and recoverable changes
 - Small tools that are easy to understand, test, and maintain
 
-Everything here is built to be useful in the real world, with the source and release history available for review.
+Published projects include source and release history for review. OpenDesk is a separate local prototype and is not yet available to download.
 
 ## Engineering range
 
