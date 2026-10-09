@@ -20,7 +20,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 ## In progress
 
-- [OpenDesk](https://github.com/informent/OpenDesk): a free, open-source Discord community bot with tickets, moderation, native AutoMod filters, custom embeds, utility games, roles, warnings, coins, optional XP, welcomes, and join-burst alerts. Features have no premium gates. See the [feature roadmap](https://github.com/informent/OpenDesk/blob/main/ROADMAP.md) for the all-in-one scope. Automated tests pass; live Discord operation remains unverified. Full antinuke, voice/music, giveaways, social integrations, and complete competitor parity remain planned.
+- [OpenDesk](https://github.com/informent/OpenDesk): a free, open-source Discord community bot with tickets, moderation, native AutoMod filters, custom embeds, native polls, utility games, roles, warnings, coins, optional XP, welcomes, and join-burst alerts. Features have no premium gates. See the [feature roadmap](https://github.com/informent/OpenDesk/blob/main/ROADMAP.md) for the all-in-one scope. Automated tests pass; live Discord operation remains unverified. Full antinuke, voice/music, giveaways, social integrations, and complete competitor parity remain planned.
 
 ## What I care about
 
