@@ -20,7 +20,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 ## In progress
 
-- [OpenDesk](https://github.com/informent/OpenDesk): a free, self-hosted Discord bot with tickets, moderation, role management, staff warnings, utilities, coin economy, optional XP leveling, welcome messages, join-burst alerts, and resumable Gateway sessions. Automated tests pass; live Discord operation has not been verified. Automatic message filtering, automatic raid response, and music remain unimplemented.
+- [OpenDesk](https://github.com/informent/OpenDesk): a free, self-hosted Discord bot with tickets, moderation, role management, staff warnings, utilities, coin economy, optional XP leveling, welcome messages, join-burst alerts, and resumable Gateway sessions. Gateway features stay off unless enabled; leveling stores XP and member IDs without retaining message text. Automated tests pass; live Discord operation has not been verified. Automatic message filtering, automatic raid response, and music remain unimplemented.
 
 ## What I care about
 
