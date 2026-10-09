@@ -18,6 +18,10 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 | [OpenPackager](https://github.com/informent/OpenPackager) | Windows packaging with strict manifest parsing, exact SHA-256 payload coverage, and source-bundle junction rejection ([v3.2.0 release](https://github.com/informent/OpenPackager/releases/tag/v3.2.0), [master fix #4](https://github.com/informent/OpenPackager/pull/4)) |
 | [OpenServerOps](https://github.com/informent/OpenServerOps) | Read-only server audits with health grades and metadata-preserving atomic JSON/HTML exports ([v2.0.1](https://github.com/informent/OpenServerOps/releases/tag/v2.0.1)) |
 
+## In progress
+
+- OpenDesk: a local prototype for self-hosted Discord support tickets. Automated tests pass, but it is not published or yet tested against a live Discord server.
+
 ## What I care about
 
 - Useful software over novelty
