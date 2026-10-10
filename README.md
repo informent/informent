@@ -20,7 +20,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 ## In progress
 
-- [OpenDesk](https://github.com/informent/OpenDesk): a free, open-source Discord community bot with tickets, moderation, native AutoMod, embeds, polls, durable reminders and giveaways, games, roles, warnings, coins, optional XP, welcomes, and join-burst alerts. Source version 0.2.0 has no premium gates. See the [feature roadmap](https://github.com/informent/OpenDesk/blob/main/ROADMAP.md) and [changelog](https://github.com/informent/OpenDesk/blob/main/CHANGELOG.md). Automated tests pass; live Discord operation remains unverified. Full antinuke, voice/music, social integrations, and complete competitor parity remain planned.
+- [OpenDesk](https://github.com/informent/OpenDesk): a free, MIT-licensed Discord community bot with tickets, moderation, native AutoMod, embeds, polls, durable reminders and giveaways, games, roles, warnings, coins, optional XP, welcomes, and join-burst alerts. [v0.3.0 source prerelease](https://github.com/informent/OpenDesk/releases/tag/v0.3.0) adds setup diagnostics, permission-based install links, and self-hosted deployment templates. No premium gates. See the [operations guide](https://github.com/informent/OpenDesk/blob/main/docs/OPERATIONS.md) and [feature roadmap](https://github.com/informent/OpenDesk/blob/main/ROADMAP.md). CI passes; live Discord, Docker, and Linux service operation remain unverified. Full antinuke, voice/music, social integrations, and complete competitor parity remain planned.
 
 ## What I care about
 
@@ -29,7 +29,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 - Safe previews, explicit actions, and recoverable changes
 - Small tools that are easy to understand, test, and maintain
 
-Published projects include source and release history for review. OpenDesk is source-only and has no packaged release yet.
+Published projects include source and release history for review. OpenDesk is distributed as a source prerelease with a verified source ZIP; it has no bundled runtime or desktop executable.
 
 ## Engineering range
 
