@@ -20,7 +20,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 ## In progress
 
-- [OpenDesk](https://github.com/informent/OpenDesk): Free MIT-licensed Discord community bot. [v0.14.0 source prerelease](https://github.com/informent/OpenDesk/releases/tag/v0.14.0) adds server shops, limited stock, inventories, gifts, consumables and durable transaction receipts. 126 command paths across 20 suites; 195 passing tests and 89.90% local line coverage. CI passes on Node 22 and 24. Live Discord validation and full competitor parity remain unfinished.
+- [OpenDesk](https://github.com/informent/OpenDesk): Free MIT-licensed Discord community bot. [v0.15.0 source prerelease](https://github.com/informent/OpenDesk/releases/tag/v0.15.0) expands native AutoMod with presets, inspection, role/channel exemptions, allowed words and block explanations. Includes shops, inventory, gifts and durable receipts. 134 command paths across 20 suites; 221 passing tests and 90.21% local line coverage. CI passes on Node 22 and 24. Live Discord validation and full competitor parity remain unfinished.
 
 ## What I care about
 
