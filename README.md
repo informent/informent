@@ -20,7 +20,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 ## In progress
 
-- [OpenDesk](https://github.com/informent/OpenDesk): free, MIT-licensed Discord community bot with 115 command paths across 19 suites. [v0.12.0 source prerelease](https://github.com/informent/OpenDesk/releases/tag/v0.12.0) adds durable begging rewards, private economy profiles and free profession progression. Includes ticket reasons/moves, live moderation/role safeguards, recurring messages, autoresponders, saved embeds, giveaways, reminders, temporary voice rooms, role menus, autoroles, economy, XP and utilities. No premium gates. Existing CI passes; new economy workflows and live Discord operation remain unverified. Full competitor parity, audio playback, comprehensive antinuke and integrations remain unfinished.
+- [OpenDesk](https://github.com/informent/OpenDesk): Free MIT-licensed Discord community bot. [v0.13.0 source prerelease](https://github.com/informent/OpenDesk/releases/tag/v0.13.0) adds a major reliability update: 164 passing tests, 89.33% local line coverage, isolated ticket/economy commits, concurrency fixes and stronger voice checks. CI passes on Node 22 and 24. 115 command paths across 19 suites. Live Discord validation and full competitor parity remain unfinished.
 
 ## What I care about
 
