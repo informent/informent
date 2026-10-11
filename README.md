@@ -8,9 +8,9 @@ I work on Windows utilities and a self-hosted Discord bot.
 | --- | --- | --- |
 | [Backstop](https://github.com/informent/Backstop) | Back up and restore local files. | [Releases](https://github.com/informent/Backstop/releases) |
 | [Savepoint](https://github.com/informent/Savepoint) | Keep snapshots of PC game saves. | [Releases](https://github.com/informent/Savepoint/releases) |
-| [HandOff](https://github.com/informent/HandOff) | Transfer files between computers on a local network. | [Releases](https://github.com/informent/HandOff/releases) |
+| [Courier](https://github.com/informent/Courier) | Transfer files between computers on a local network. | [Releases](https://github.com/informent/Courier/releases) |
 | [Batchwork](https://github.com/informent/Batchwork) | Preview and apply batch file renames. | [Releases](https://github.com/informent/Batchwork/releases) |
-| [Diskroom](https://github.com/informent/Diskroom) | Find which folders use disk space. | [Releases](https://github.com/informent/Diskroom/releases) |
+| [Footprint](https://github.com/informent/Footprint) | Find which folders use disk space. | [Releases](https://github.com/informent/Footprint/releases) |
 | [Cliptray](https://github.com/informent/Cliptray) | Keep a local clipboard history. | [Releases](https://github.com/informent/Cliptray/releases) |
 | [Checkup](https://github.com/informent/Checkup) | Check Windows health and collect troubleshooting reports. | [Releases](https://github.com/informent/Checkup/releases) |
 | [Rackwatch](https://github.com/informent/Rackwatch) | Inspect Windows servers and export reports. | [Releases](https://github.com/informent/Rackwatch/releases) |
