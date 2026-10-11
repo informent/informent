@@ -20,7 +20,7 @@ My focus is simple: take everyday workflows that are fragmented, expensive, or h
 
 ## In progress
 
-- [OpenDesk](https://github.com/informent/OpenDesk): Free, open-source Discord community bot with moderation, AutoMod, roles, tickets, economy, XP, role rewards, giveaways and more. [All commands](https://github.com/informent/OpenDesk/blob/main/COMMANDS.md). Latest [v0.19.1](https://github.com/informent/OpenDesk/releases/tag/v0.19.1) adds confirmed ticket close/rename permissions and restart recovery. 165 command paths across 23 suites; 416 passing tests with 92.91% line coverage, verified on Node 22 and 24 in CI. Self-hosted and MIT licensed. Live Discord validation and full Bleed/Greed parity remain unfinished.
+- [OpenDesk](https://github.com/informent/OpenDesk): Free, open-source Discord community bot with moderation, AutoMod, roles, tickets, economy, XP, role rewards, giveaways and reminders. [All commands](https://github.com/informent/OpenDesk/blob/main/COMMANDS.md). Latest [v0.20.0](https://github.com/informent/OpenDesk/releases/tag/v0.20.0) adds owner-only reminder details, durable text editing and rescheduling. 168 command paths across 23 suites; 443 passing tests with 92.96% line coverage, verified on Node 22 and 24 in CI. Self-hosted and MIT licensed. Live Discord validation and full Bleed/Greed parity remain unfinished.
 
 ## What I care about
 
