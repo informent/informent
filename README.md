@@ -4,6 +4,8 @@ I work on Windows utilities and a self-hosted Discord bot.
 
 ## Windows tools
 
+Windows releases include setup installers and portable ZIPs.
+
 | Project | What it does | Downloads |
 | --- | --- | --- |
 | [Backstop](https://github.com/informent/Backstop) | Back up and restore local files. | [Releases](https://github.com/informent/Backstop/releases) |
@@ -23,3 +25,7 @@ I work on Windows utilities and a self-hosted Discord bot.
 [Commands](https://github.com/informent/Latch/blob/main/COMMANDS.md) | [Setup](https://github.com/informent/Latch#start-here) | [Releases](https://github.com/informent/Latch/releases)
 
 Each repository has its source, documentation and issue tracker. Release notes describe what changed and what was checked.
+
+## Contributions
+
+Outside changes are accepted by invitation. I control repository access, merges and releases.
