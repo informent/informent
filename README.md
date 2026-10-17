@@ -13,37 +13,66 @@ I came from online circles where people out of work made money through crime. I 
 
 </details>
 
+## Currently building
+
+**[Backstop](https://github.com/informent/Backstop)**
+
+Local file backups with snapshot comparison and restore previews.
+
+[Latest release](https://github.com/informent/Backstop/releases/latest) · [Documentation](https://github.com/informent/Backstop#readme)
+
+**[Latch](https://github.com/informent/Latch)**
+
+A free Discord bot you host yourself, with moderation, tickets, roles, community tools, and a complete command reference.
+
+[Browse commands](https://github.com/informent/Latch/blob/main/COMMANDS.md) · [Set up Latch](https://github.com/informent/Latch#start-here)
+
 ## Projects
 
-Windows tools include a setup installer and a portable download. Source, setup notes, and release history are in each repository.
+Windows tools include setup installers with the .NET runtime bundled and portable ZIP downloads. Choose an installer for guided setup or a ZIP for a folder-based install.
 
 ### Files and everyday use
 
-| Project | Purpose |
-| --- | --- |
-| [Backstop](https://github.com/informent/Backstop) · [Releases](https://github.com/informent/Backstop/releases) | Compare backup snapshots and review restores. |
-| [Savepoint](https://github.com/informent/Savepoint) · [Releases](https://github.com/informent/Savepoint/releases) | Back up and compare PC game saves. |
-| [Courier](https://github.com/informent/Courier) · [Releases](https://github.com/informent/Courier/releases) | Transfer files over a local network and verify receipts. |
-| [Batchwork](https://github.com/informent/Batchwork) · [Releases](https://github.com/informent/Batchwork/releases) | Preview and recover batch file renames. |
-| [Footprint](https://github.com/informent/Footprint) · [Releases](https://github.com/informent/Footprint/releases) | Inspect disk usage and export CSV reports. |
-| [Cliptray](https://github.com/informent/Cliptray) · [Releases](https://github.com/informent/Cliptray/releases) | Keep clipboard history on your device with deletion and secret filters. |
+| Project | What it does | Latest release |
+| --- | --- | --- |
+| [Backstop](https://github.com/informent/Backstop) | Back up files and review snapshot comparisons and restores. | [v1.7.0](https://github.com/informent/Backstop/releases/tag/v1.7.0) |
+| [Savepoint](https://github.com/informent/Savepoint) | Back up and compare PC game saves. | [v1.5.0](https://github.com/informent/Savepoint/releases/tag/v1.5.0) |
+| [Courier](https://github.com/informent/Courier) | Transfer files over a local network and verify receipts. | [v1.0.0](https://github.com/informent/Courier/releases/tag/v1.0.0) |
+| [Batchwork](https://github.com/informent/Batchwork) | Preview and recover batch file renames. | [v1.3.1](https://github.com/informent/Batchwork/releases/tag/v1.3.1) |
+| [Footprint](https://github.com/informent/Footprint) | Inspect disk use and export CSV reports. | [v1.3.1](https://github.com/informent/Footprint/releases/tag/v1.3.1) |
+| [Cliptray](https://github.com/informent/Cliptray) | Keep clipboard history on your device with deletion and secret filters. | [v1.3.1](https://github.com/informent/Cliptray/releases/tag/v1.3.1) |
 
-### System and developer tools
+### Systems and development
 
-| Project | Purpose |
-| --- | --- |
-| [Checkup](https://github.com/informent/Checkup) · [Releases](https://github.com/informent/Checkup/releases) | Collect Windows troubleshooting reports. |
-| [Rackwatch](https://github.com/informent/Rackwatch) · [Releases](https://github.com/informent/Rackwatch/releases) | Inspect Windows servers and local ports. |
-| [Packbench](https://github.com/informent/Packbench) · [Releases](https://github.com/informent/Packbench/releases) | Package desktop projects and check ZIP contents. |
+| Project | What it does | Latest release |
+| --- | --- | --- |
+| [Checkup](https://github.com/informent/Checkup) | Check Windows health and collect troubleshooting reports. | [v1.2.0](https://github.com/informent/Checkup/releases/tag/v1.2.0) |
+| [Rackwatch](https://github.com/informent/Rackwatch) | Inspect Windows servers and local ports. | [v2.2.0](https://github.com/informent/Rackwatch/releases/tag/v2.2.0) |
+| [Packbench](https://github.com/informent/Packbench) | Package desktop projects and verify ZIP contents. | [v3.4.0](https://github.com/informent/Packbench/releases/tag/v3.4.0) |
 
 ## Latch
 
-A free, self-hosted Discord bot for moderation, tickets, roles, and community tools.
+**Free and open source. Bring your own hosting.**
 
-[Commands](https://github.com/informent/Latch/blob/main/COMMANDS.md) | [Setup](https://github.com/informent/Latch#start-here) | [Releases](https://github.com/informent/Latch/releases)
+Latch is distributed as a source prerelease. Automated checks run on Windows and Linux; live Discord acceptance testing is still pending. Courier is also a preview; testing between two physical computers is pending.
 
-Latch is a source prerelease. Live Discord acceptance testing is pending. Courier is also a preview; testing between two physical computers is pending.
+[Latest prerelease](https://github.com/informent/Latch/releases/tag/v0.35.0) · [Commands](https://github.com/informent/Latch/blob/main/COMMANDS.md) · [Setup](https://github.com/informent/Latch#start-here)
 
-## Contributions
+## What I care about
 
-I maintain these repositories and handle merges and releases. Code contributions are by invitation; bug reports are welcome.
+- Useful software over novelty
+- Local-first workflows and user-owned data
+- Safe previews, explicit actions, and recoverable changes
+- Small tools that are easy to understand, test, and maintain
+
+## Engineering range
+
+- Windows desktop development with C#, .NET, WPF, and self-contained distribution
+- Filesystem safety: atomic writes, transactional operations, path-boundary validation, SHA-256 manifests, and restore preflight
+- Security and privacy: encrypted transfers, certificate pinning, sensitive-data exclusion, redaction, and local-first storage
+- Systems and operations: server auditing, storage analysis, backup scheduling, release automation, and failure recovery
+- Delivery discipline: regression tests, packaged-app smoke tests, least-privilege CI permissions, issue tracking, code review, and reproducible releases
+
+## Development
+
+Source, setup instructions, release history, and issue trackers live in each repository. Release notes record changes and verification details. Bug reports are welcome. Code contributions are by invitation; repository access, merges, and releases are managed by me.
