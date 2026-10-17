@@ -40,7 +40,7 @@ Windows tools include setup installers with the .NET runtime bundled and portabl
 | [Courier](https://github.com/informent/Courier) | Transfer files over a local network and verify receipts. | [v1.0.0](https://github.com/informent/Courier/releases/tag/v1.0.0) |
 | [Batchwork](https://github.com/informent/Batchwork) | Preview and recover batch file renames. | [v1.3.1](https://github.com/informent/Batchwork/releases/tag/v1.3.1) |
 | [Footprint](https://github.com/informent/Footprint) | Inspect disk use and export CSV reports. | [v1.3.1](https://github.com/informent/Footprint/releases/tag/v1.3.1) |
-| [Cliptray](https://github.com/informent/Cliptray) | Keep clipboard history on your device with deletion and secret filters. | [v1.3.1](https://github.com/informent/Cliptray/releases/tag/v1.3.1) |
+| [Cliptray](https://github.com/informent/Cliptray) | Keep clipboard history on your device with opt-in capture, deletion and secret filters. | [v1.5.0](https://github.com/informent/Cliptray/releases/tag/v1.5.0) |
 
 ### Systems and development
 
