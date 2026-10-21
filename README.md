@@ -2,7 +2,6 @@
 
 I build tools for gaming communities, self-hosted Discord software, and practical Windows utilities.
 
-I came from online circles where people out of work made money through crime. I work overtime every week; outside work, I build useful free software.
 
 [Projects](#projects) | [Latch](#latch) | [Repositories](https://github.com/informent?tab=repositories)
 
