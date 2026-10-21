@@ -42,7 +42,7 @@ Windows tools include setup installers with the .NET runtime bundled and portabl
 | Project | What it does | Latest release |
 | --- | --- | --- |
 | [Backstop](https://github.com/informent/Backstop) | Back up files and review snapshot comparisons and restores. | [v1.7.0](https://github.com/informent/Backstop/releases/tag/v1.7.0) |
-| [Savepoint](https://github.com/informent/Savepoint) | Back up and compare PC game saves. | [v1.5.0](https://github.com/informent/Savepoint/releases/tag/v1.5.0) |
+| [Savepoint](https://github.com/informent/Savepoint) | Back up and compare PC game saves. | [v1.5.1](https://github.com/informent/Savepoint/releases/tag/v1.5.1) |
 | [Courier](https://github.com/informent/Courier) | Transfer files over a local network and verify receipts. | [v1.0.0](https://github.com/informent/Courier/releases/tag/v1.0.0) |
 | [Batchwork](https://github.com/informent/Batchwork) | Preview and recover batch file renames. | [v1.3.1](https://github.com/informent/Batchwork/releases/tag/v1.3.1) |
 | [Footprint](https://github.com/informent/Footprint) | Inspect disk use and export CSV reports. | [v1.3.1](https://github.com/informent/Footprint/releases/tag/v1.3.1) |
@@ -54,7 +54,7 @@ Windows tools include setup installers with the .NET runtime bundled and portabl
 | --- | --- | --- |
 | [Checkup](https://github.com/informent/Checkup) | Check Windows health and collect troubleshooting reports. | [v1.2.0](https://github.com/informent/Checkup/releases/tag/v1.2.0) |
 | [Rackwatch](https://github.com/informent/Rackwatch) | Inspect Windows servers and local ports. | [v2.2.0](https://github.com/informent/Rackwatch/releases/tag/v2.2.0) |
-| [Packbench](https://github.com/informent/Packbench) | Package desktop projects and verify ZIP contents. | [v3.4.0](https://github.com/informent/Packbench/releases/tag/v3.4.0) |
+| [Packbench](https://github.com/informent/Packbench) | Package desktop projects and verify ZIP contents. | [v3.4.1](https://github.com/informent/Packbench/releases/tag/v3.4.1) |
 
 ## Latch
 
