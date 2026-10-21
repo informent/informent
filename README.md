@@ -1,6 +1,6 @@
 # xnx
 
-I build Windows utilities and self-hosted software for online communities.
+I build tools for gaming communities, self-hosted Discord software, and practical Windows utilities.
 
 I came from online circles where people out of work made money through crime. I work overtime every week; outside work, I build useful free software.
 
@@ -14,6 +14,12 @@ I came from online circles where people out of work made money through crime. I 
 </details>
 
 ## Currently building
+
+**[Guildkit](https://informent.github.io/Guildkit/)**
+
+A free, private Discord message studio with reusable templates, event timestamps, and game-night team and bracket draws. Runs in your browser without accounts or bot tokens.
+
+[Open the app](https://informent.github.io/Guildkit/) · [Source and limits](https://github.com/informent/Guildkit#readme)
 
 **[Backstop](https://github.com/informent/Backstop)**
 
