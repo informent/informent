@@ -1,9 +1,9 @@
 # s8int
 
-I build tools for gaming communities, self-hosted Discord software, and practical Windows utilities.
+I build software for people who want control over their tools: self-hosted licensing, Discord utilities, and Windows desktop apps.
 
 
-[Projects](#projects) | [Latch](#latch) | [Repositories](https://github.com/informent?tab=repositories)
+[Projects](#projects) | [Keydock](https://github.com/informent/Keydock) | [Latch](#latch) | [Repositories](https://github.com/informent?tab=repositories)
 
 <details>
 <summary>ASCII artwork (open full size)</summary>
@@ -13,6 +13,14 @@ I build tools for gaming communities, self-hosted Discord software, and practica
 </details>
 
 ## Currently building
+
+**[Keydock](https://github.com/informent/Keydock)**
+
+Self-hosted software licensing for developers. Manage products, customers, license keys, device limits, and entitlements from one console. Includes a licensing API, JavaScript and Python clients, and signed offline leases.
+
+The console is being refined for PC workflows: readable tables, compact views, and room to work across products and customer records. Early release; an independent security audit is still pending.
+
+[Source and setup](https://github.com/informent/Keydock#readme) · [JavaScript client](https://github.com/informent/Keydock/tree/main/sdk/javascript) · [Python client](https://github.com/informent/Keydock/tree/main/sdk/python)
 
 **[Guildkit](https://informent.github.io/Guildkit/)**
 
@@ -34,26 +42,37 @@ A free Discord bot you host yourself, with moderation, tickets, roles, community
 
 ## Projects
 
-Windows tools include setup installers with the .NET runtime bundled and portable ZIP downloads. Choose an installer for guided setup or a ZIP for a folder-based install.
+Check each repository for setup instructions, available downloads, and current limitations. Windows releases generally offer an installer and a portable ZIP; preview projects may still require a source build.
+
+### Licensing, Discord, and media
+
+| Project | What it does | Start here |
+| --- | --- | --- |
+| [Keydock](https://github.com/informent/Keydock) | Host your own software licensing service with keys, device limits, customer records, and offline leases. | [Run the console](https://github.com/informent/Keydock#run-keydock) |
+| [Guildkit](https://github.com/informent/Guildkit) | Draft Discord messages, reuse templates, format timestamps, and organize game-night teams. | [Open the app](https://informent.github.io/Guildkit/) |
+| [UploadFit](https://github.com/informent/UploadFit) | Compress local clips to an upload limit, with trimming and batch processing. | [Source and status](https://github.com/informent/UploadFit#readme) |
+| [Latch](https://github.com/informent/Latch) | Self-hosted Discord moderation, tickets, roles, and community tools. | [Setup and limits](https://github.com/informent/Latch#start-here) |
+
+UploadFit is still in development. Latch needs live Discord acceptance testing; Courier needs testing between two physical PCs.
 
 ### Files and everyday use
 
-| Project | What it does | Latest release |
+| Project | What it does | Downloads |
 | --- | --- | --- |
-| [Backstop](https://github.com/informent/Backstop) | Back up files and review snapshot comparisons and restores. | [v1.7.0](https://github.com/informent/Backstop/releases/tag/v1.7.0) |
-| [Savepoint](https://github.com/informent/Savepoint) | Back up and compare PC game saves. | [v1.5.1](https://github.com/informent/Savepoint/releases/tag/v1.5.1) |
-| [Courier](https://github.com/informent/Courier) | Transfer files over a local network and verify receipts. | [v1.0.0](https://github.com/informent/Courier/releases/tag/v1.0.0) |
-| [Batchwork](https://github.com/informent/Batchwork) | Preview and recover batch file renames. | [v1.3.1](https://github.com/informent/Batchwork/releases/tag/v1.3.1) |
-| [Footprint](https://github.com/informent/Footprint) | Inspect disk use and export CSV reports. | [v1.3.1](https://github.com/informent/Footprint/releases/tag/v1.3.1) |
-| [Cliptray](https://github.com/informent/Cliptray) | Keep clipboard history on your device with opt-in capture, deletion and secret filters. | [v1.5.0](https://github.com/informent/Cliptray/releases/tag/v1.5.0) |
+| [Backstop](https://github.com/informent/Backstop) | Back up files and review snapshot comparisons and restores. | [Downloads](https://github.com/informent/Backstop/releases/latest) |
+| [Savepoint](https://github.com/informent/Savepoint) | Back up and compare PC game saves. | [Downloads](https://github.com/informent/Savepoint/releases/latest) |
+| [Courier](https://github.com/informent/Courier) | Transfer files over a local network and verify receipts. | [Downloads](https://github.com/informent/Courier/releases/latest) |
+| [Batchwork](https://github.com/informent/Batchwork) | Preview and recover batch file renames. | [Downloads](https://github.com/informent/Batchwork/releases/latest) |
+| [Footprint](https://github.com/informent/Footprint) | Inspect disk use and export CSV reports. | [Downloads](https://github.com/informent/Footprint/releases/latest) |
+| [Cliptray](https://github.com/informent/Cliptray) | Keep clipboard history on your device with opt-in capture, deletion and secret filters. | [Downloads](https://github.com/informent/Cliptray/releases/latest) |
 
 ### Systems and development
 
-| Project | What it does | Latest release |
+| Project | What it does | Downloads |
 | --- | --- | --- |
-| [Checkup](https://github.com/informent/Checkup) | Check Windows health and collect troubleshooting reports. | [v1.2.0](https://github.com/informent/Checkup/releases/tag/v1.2.0) |
-| [Rackwatch](https://github.com/informent/Rackwatch) | Inspect Windows servers and local ports. | [v2.2.0](https://github.com/informent/Rackwatch/releases/tag/v2.2.0) |
-| [Packbench](https://github.com/informent/Packbench) | Package desktop projects and verify ZIP contents. | [v3.4.1](https://github.com/informent/Packbench/releases/tag/v3.4.1) |
+| [Checkup](https://github.com/informent/Checkup) | Check Windows health and collect troubleshooting reports. | [Downloads](https://github.com/informent/Checkup/releases/latest) |
+| [Rackwatch](https://github.com/informent/Rackwatch) | Inspect Windows servers and local ports. | [Downloads](https://github.com/informent/Rackwatch/releases/latest) |
+| [Packbench](https://github.com/informent/Packbench) | Package desktop projects and verify ZIP contents. | [Downloads](https://github.com/informent/Packbench/releases/latest) |
 
 ## Latch
 
@@ -61,7 +80,7 @@ Windows tools include setup installers with the .NET runtime bundled and portabl
 
 Latch is distributed as a source prerelease. Automated checks run on Windows and Linux; live Discord acceptance testing is still pending. Courier is also a preview; testing between two physical computers is pending.
 
-[Latest prerelease](https://github.com/informent/Latch/releases/tag/v0.35.0) · [Commands](https://github.com/informent/Latch/blob/main/COMMANDS.md) · [Setup](https://github.com/informent/Latch#start-here)
+[Releases and prereleases](https://github.com/informent/Latch/releases) · [Commands](https://github.com/informent/Latch/blob/main/COMMANDS.md) · [Setup](https://github.com/informent/Latch#start-here)
 
 ## What I care about
 
