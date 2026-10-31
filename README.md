@@ -4,8 +4,11 @@ I build open-source tools
 
 Currently working on **[Keydock](https://github.com/informent/Keydock)**: self-hosted software licensing with keys, device limits, customer records, and offline access.
 
+Also working on **HFC Field Tracker**, a private Windows tool for PDF equipment maps and field work status. Its scanner and interface improvements are in progress; the published installer remains v1.0.2.
+
 | Project | What it does |
 | --- | --- |
+| [HFC Setup Assistant](https://github.com/informent/HFC-Setup-Assistant) | Offline HFC meter checks and Pilot setup references. [Windows EXE v0.2.0](https://github.com/informent/HFC-Setup-Assistant/releases/tag/v0.2.0). |
 | [Keydock](https://github.com/informent/Keydock) | Software licensing you host yourself. Early release. |
 | [Guildkit](https://informent.github.io/Guildkit/) | Discord message drafts, templates, timestamps, and game-night planning. |
 | [UploadFit](https://github.com/informent/UploadFit) | Fit local video clips under an upload limit. In development. |
