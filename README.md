@@ -1,6 +1,6 @@
 # s8int
 
-I build open-source tools for Windows, Discord, and developers.
+I build open-source tools
 
 Currently working on **[Keydock](https://github.com/informent/Keydock)**: self-hosted software licensing with keys, device limits, customer records, and offline access.
 
