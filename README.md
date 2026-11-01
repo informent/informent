@@ -4,7 +4,7 @@ I build open-source tools
 
 Currently working on **[Keydock](https://github.com/informent/Keydock)**: self-hosted software licensing with keys, device limits, customer records, and offline access.
 
-Also working on **HFC Field Tracker**, a private Windows tool for PDF equipment maps and field work status. Its scanner and interface improvements are in progress; the published installer remains v1.0.2.
+**HFC Field Tracker** is a private Windows tool for PDF equipment maps and field work status. Version **1.1.0** is released with a single Windows installer, marked-PDF exports to Downloads, improved equipment scanning, address labels and remaining-work filters.
 
 | Project | What it does |
 | --- | --- |
