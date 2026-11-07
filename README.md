@@ -1,21 +1,16 @@
 # s8int
 
-I build open-source tools
+I build practical Windows software for creative work, files, field work and community tools.
 
-Currently working on **[Keydock](https://github.com/informent/Keydock)**: self-hosted software licensing with keys, device limits, customer records, and offline access.
+Explore the **[public project catalog](https://github.com/informent/Projects)** for previews and descriptions. Current application source and owner distributions are private.
 
-**HFC Field Tracker** is a private Windows tool for PDF equipment maps and field work status. Version **1.1.0** is released with a single Windows installer, marked-PDF exports to Downloads, improved equipment scanning, address labels and remaining-work filters.
+- **Informent Hub** brings the collection into one home with project previews, verified updates and one-click launches.
+- **Framecraft** records and edits screen or window footage with trims, zooms and local video exports.
+- **Keydock** manages owner-issued licenses, device limits and signed release distribution.
+- **HFC Field Tracker** and **HFC Setup Assistant** support local field workflows.
 
-| Project | What it does |
-| --- | --- |
-| [HFC Setup Assistant](https://github.com/informent/HFC-Setup-Assistant) | Offline HFC meter checks and Pilot setup references. [Windows EXE v0.2.0](https://github.com/informent/HFC-Setup-Assistant/releases/tag/v0.2.0). |
-| [Keydock](https://github.com/informent/Keydock) | Software licensing you host yourself. Early release. |
-| [Guildkit](https://informent.github.io/Guildkit/) | Discord message drafts, templates, timestamps, and game-night planning. |
-| [UploadFit](https://github.com/informent/UploadFit) | Fit local video clips under an upload limit. In development. |
-| [Latch](https://github.com/informent/Latch) | Self-hosted Discord moderation and community tools. Preview. |
-| [Savepoint](https://github.com/informent/Savepoint) | Back up and restore PC game saves. |
-| [Backstop](https://github.com/informent/Backstop) | Local file backups with snapshot comparisons and restore previews. |
+The collection also includes UploadFit, Guildkit, Latch, Savepoint, Backstop, Batchwork, Checkup, Cliptray, Courier, Footprint, Packbench and Rackwatch.
 
-More tools: [Batchwork](https://github.com/informent/Batchwork) · [Checkup](https://github.com/informent/Checkup) · [Cliptray](https://github.com/informent/Cliptray) · [Courier](https://github.com/informent/Courier) · [Footprint](https://github.com/informent/Footprint) · [Packbench](https://github.com/informent/Packbench) · [Rackwatch](https://github.com/informent/Rackwatch)
+[Browse the projects](https://github.com/informent/Projects) · [Owner Hub download](https://github.com/informent/Informent-Hub/releases/latest)
 
-[All repositories](https://github.com/informent?tab=repositories)
+Earlier public releases retain their original license terms.
